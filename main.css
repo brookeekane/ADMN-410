@@ -1,0 +1,147 @@
+body{
+	width:880px;
+	margin:0 auto;
+	font:14pt Georgia;
+	background:#B0E0E6;
+	}
+header{text-align:center;
+		font:Jazz LET,fantasy;
+		color:#000000;
+		Background-color:#ff8c1a;
+		border-radius:30px 30px 30px 30px;
+		border:outset;
+	h1
+	{font-size:45px;
+	font-family:Jazz LET, fantasy;
+	text-align:center;
+	text-transform-uppercase;
+	color:#CD853F;}
+	
+	h2{font-size:30px;
+	font-family:Jazz LET,fantasy;
+	text-align:center;
+	text-transform:uppercase;
+	color:#CD853F;}
+	
+	h3{font-size:25px;
+	font-family: Jazz LET, fantasy;
+	text-align: center;
+	text-transform-uppercase;
+	color:#000000;}
+	}
+
+nav{
+	width:98%;
+	display: block;
+	list-style-type:inline;
+	background-color:#ffffff;
+	text-cplor:#ffffff;
+	}
+
+ul{
+list-style-type:none;
+margin:6;
+padding:8;
+text:#000000;
+border:none;
+overflow:hidden;
+border-radius:20px;
+}
+
+
+li{
+display:inline;
+text-align:center;
+list-style-type:none;
+margin:0;
+padding:40;
+position:relative;
+text:#ffffff
+float:left;
+text-decoration:none;
+}
+
+nav ul li ul li a:hover {
+padding:15px 30px;
+}
+
+nav ul li ul li a:hover {
+background-color:#f3f3f3;
+}
+
+nav ul li:{ 
+	display:block;
+	font-family:arial;
+	text-decoration:underline;
+	text-align:right;
+	position:relative;}
+
+nav ul li ul:{ 
+	background-color:#ffffff;
+	border:none;
+	padding:30px;
+	width:80px;
+	position:absolute;
+	text-align:right;
+}
+
+nav ul li ul li {
+	width:180px;
+}
+
+
+.active{
+background-color:#0000cc;
+text:#ffffff;}
+}
+
+img{
+	width:200px;
+	height:100px;
+	padding:5px;
+	align:center;}
+	
+section{
+	text-align:center;
+	background-color:#ecf2f8;
+	width:850px;
+	min-height:300px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #000000;
+	font:20px;
+	margin:4;}
+
+section{
+	text-align:center;
+	background-color:#ecf2f8;
+	width:850px;
+	min-height:200px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #000000;
+	font:40px;
+	margin:}
+aside{
+	text-align:center;
+	background-color:#ecf2f8;
+	width:850px;
+	min-height:200px;
+	border-style: ridge;
+	border-width: 5px;
+	border-color: #000000;
+	font:40px;}
+img{
+	width:400px;
+	padding:5px;
+	align:center;}
+}
+
+
+	
+	
+	
+
+
+
+
